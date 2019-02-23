@@ -14,5 +14,5 @@ of the various types of electric thrusters. Hall thrusters and ion thrusters are
 used, so their operating principles have been explained in detail. This is followed by a theoretical
 overview of corona discharge and their application in ion propelled aircrafts known as ionocrafts.
 The design and construction process of a stationary EHD thruster and an ionocraft are outlined
-in detail, followed by extensive testing to verify the eect of varying input power, duty cycle, and
+in detail, followed by extensive testing to verify the effect of varying input power, duty cycle, and
 frequency.
