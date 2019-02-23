@@ -1,4 +1,4 @@
-# Final-Year-Project-2018
+# Ion-Propulsion-Engines-FYP-2018
 Imperial BEng EEE FYP Project Report
 
 Abstract:
