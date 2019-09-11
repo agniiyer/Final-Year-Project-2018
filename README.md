@@ -6,7 +6,7 @@ Electric propulsion technology generates thrust without any fuel, emissions, mov
 signature, and is primarily used in deep space exploration and attitude adjustment for satellites.
 Given the projected growth in communication satellites that will be in orbit to provide Internet
 access to a growing global population, it is a sector that is poised for substantial growth. This
-project aims to investigate whether the principles of ion propulsion engines, and more specically
+project aims to investigate whether the principles of ion propulsion engines, and more specifically
 electrohydrodynamic (EHD) propulsion, can be used as a practical source of generating thrust on
 Earth. The project begins with a brief history of the technology and an overview and comparison
 of the various types of electric thrusters. Hall thrusters and ion thrusters are the most widely
